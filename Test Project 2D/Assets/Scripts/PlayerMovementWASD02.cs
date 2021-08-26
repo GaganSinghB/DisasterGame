@@ -11,7 +11,7 @@ public class PlayerMovementWASD02 : MonoBehaviour
 
     void Start()
     {
-
+        instance = this;
     }
 
     void Update()
