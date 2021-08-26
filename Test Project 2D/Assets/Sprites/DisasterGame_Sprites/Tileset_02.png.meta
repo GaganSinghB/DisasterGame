@@ -139,10 +139,10 @@ TextureImporter:
     second: Wall_Corner_Thin
   - first:
       213: 7348164921404637726
-    second: Tileset_02_45
+    second: Bed_02
   - first:
       213: 192984101659818623
-    second: Tileset_02_46
+    second: Bed_01
   - first:
       213: 7252551929429172111
     second: Wall_Thick_01
@@ -1554,6 +1554,64 @@ TextureImporter:
       bones: []
       spriteID: 85952af3fc79164a0800000000000000
       internalID: -6601828662366807720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bed_02
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 191
+        width: 64
+        height: 57
+      alignment: 9
+      pivot: {x: 0.484375, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -13.5}
+        - {x: -32, y: 22.5}
+        - {x: 32, y: -10.5}
+        - {x: 32, y: -12.5}
+        - {x: -1, y: -28.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e124f43501de9f560800000000000000
+      internalID: 7348164921404637726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bed_01
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 206
+        width: 33
+        height: 42
+      alignment: 9
+      pivot: {x: 0.969697, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 21}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: -5}
+        - {x: 11.5, y: -21}
+        - {x: 16.5, y: -21}
+        - {x: 16.5, y: 21}
+      physicsShape:
+      - - {x: 11.5, y: -18}
+        - {x: 11.5, y: -16}
+        - {x: -16.5, y: -2}
+        - {x: 16.5, y: 15}
+        - {x: 16.5, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a3bba940e9da200800000000000000
+      internalID: 192984101659818623
       vertices: []
       indices: 
       edges: []
