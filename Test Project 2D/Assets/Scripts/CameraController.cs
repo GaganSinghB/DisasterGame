@@ -27,6 +27,6 @@ public class CameraController : MonoBehaviour
     {
         transform.position = new Vector3(target.position.x, target.position.y, transform.position.z);
 
-        transform.position = new Vector3(Mathf.Clamp(transform.position.x, bottomLeftLimit.x, topRightLimit.x), Mathf.Clamp(transform.position.y, bottomLeftLimit.y - 0.3f , topRightLimit.y + 10f), transform.position.z);
+        transform.position = new Vector3(Mathf.Clamp(transform.position.x, bottomLeftLimit.x, topRightLimit.x), Mathf.Clamp(transform.position.y, bottomLeftLimit.y - 0.3f , float.MaxValue), transform.position.z);
     }
 }
