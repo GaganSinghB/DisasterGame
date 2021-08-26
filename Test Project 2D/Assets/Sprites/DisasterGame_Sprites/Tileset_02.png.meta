@@ -1,0 +1,1576 @@
+fileFormatVersion: 2
+guid: 6f89e8f741df2ec4a91a0f105ca2166a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1968794535420721320
+    second: Floor_Wood
+  - first:
+      213: -664796122047567186
+    second: Floor_Tile
+  - first:
+      213: 4762054965068397974
+    second: Drawer_01
+  - first:
+      213: -1269583920288500593
+    second: Drawer_02
+  - first:
+      213: 238610356462188675
+    second: TV_Small_01
+  - first:
+      213: 3162519909510934334
+    second: TV_Small_02
+  - first:
+      213: -6194522954838636822
+    second: TV_Big_01
+  - first:
+      213: -7936319410428135443
+    second: TV_Big_02
+  - first:
+      213: 6882453670865432714
+    second: TV_Big_03
+  - first:
+      213: -2629137062465049848
+    second: Carpet_01
+  - first:
+      213: -6438448156605135811
+    second: Carpet_02
+  - first:
+      213: -5111869106468725905
+    second: Carpet_03
+  - first:
+      213: 2993904186786920958
+    second: TV_Big_04
+  - first:
+      213: -9131002038984228346
+    second: Shelf_wall
+  - first:
+      213: -7235480128023189680
+    second: Blinds_01
+  - first:
+      213: 3739437800312028118
+    second: Painting
+  - first:
+      213: -3476506298295839178
+    second: AC
+  - first:
+      213: 4203007738734005681
+    second: Coat_Hanger
+  - first:
+      213: -8900161468819781571
+    second: Carpet_04
+  - first:
+      213: -4953919576475622631
+    second: Carpet_05
+  - first:
+      213: 6431676811897553942
+    second: Carpet_06
+  - first:
+      213: -2371697467359760055
+    second: Chair_01
+  - first:
+      213: -1383203083900719978
+    second: Chair_02
+  - first:
+      213: 7712480238326127008
+    second: Desk_01
+  - first:
+      213: 7339044146319721984
+    second: Desk_02
+  - first:
+      213: 2543122251354479643
+    second: Shelf
+  - first:
+      213: 3903583685003451220
+    second: Cupboard_Wooden_01
+  - first:
+      213: 8614675170555815673
+    second: Carpet_07
+  - first:
+      213: 4234818257699764206
+    second: Carpet_08
+  - first:
+      213: 4358518403630768421
+    second: Carpet_09
+  - first:
+      213: 1784181858955267672
+    second: Block
+  - first:
+      213: 2087524163139614851
+    second: Cupboard_Wooden_02
+  - first:
+      213: -2579232461103079084
+    second: Cupboard_Messy_01
+  - first:
+      213: 33104764418230261
+    second: Cupboard_Messy_02
+  - first:
+      213: -8516862229878435497
+    second: Slope_NW
+  - first:
+      213: -7904018165776851336
+    second: Slope_NE
+  - first:
+      213: 516332542358871630
+    second: Slope_SE
+  - first:
+      213: 2142086424979872658
+    second: Slope_SW
+  - first:
+      213: -591575447068439571
+    second: Cupboard_BnW_01
+  - first:
+      213: 5230020505277790508
+    second: Cupboard_BnW_02
+  - first:
+      213: -6601828662366807720
+    second: Blinds_02
+  - first:
+      213: -652876339836750829
+    second: Stairs_NW
+  - first:
+      213: 8043681712451913410
+    second: Stairs_NE
+  - first:
+      213: -8410434502227456957
+    second: Wall_Corner_Thick
+  - first:
+      213: 3775531570258699949
+    second: Wall_Corner_Thin
+  - first:
+      213: 7348164921404637726
+    second: Tileset_02_45
+  - first:
+      213: 192984101659818623
+    second: Tileset_02_46
+  - first:
+      213: 7252551929429172111
+    second: Wall_Thick_01
+  - first:
+      213: 9080465776793876975
+    second: Wall_Thick_02
+  - first:
+      213: -2792873374377588598
+    second: Wall_Thin_01
+  - first:
+      213: -555860388174575710
+    second: Wall_Thin_02
+  - first:
+      213: -4536865154950649662
+    second: Tileset_02_51
+  - first:
+      213: -2677820789890682077
+    second: Tileset_02_52
+  - first:
+      213: 3335697582044133264
+    second: Wall_Thick_03
+  - first:
+      213: 5383762684573780362
+    second: Wall_Thick_04
+  - first:
+      213: -1567618114915324328
+    second: Wall_Thin_03
+  - first:
+      213: 6599649141704684167
+    second: Wall_Thin_04
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floor_Wood
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 457
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 16}
+        - {x: 0, y: 32}
+        - {x: 32, y: 16}
+        - {x: 0, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a87b77e230925b10800000000000000
+      internalID: 1968794535420721320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Tile
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 457
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 16}
+        - {x: 0, y: 32}
+        - {x: 32, y: 16}
+        - {x: 0, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa2c41037b26c6f0800000000000000
+      internalID: -664796122047567186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawer_01
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 457
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -16}
+        - {x: 0, y: 0}
+        - {x: 32, y: -16}
+        - {x: 0, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d79c1a2c7361240800000000000000
+      internalID: 4762054965068397974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawer_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 457
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -16}
+        - {x: 0, y: 0}
+        - {x: 32, y: -16}
+        - {x: 0, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84f7aaa628816ee0800000000000000
+      internalID: -1269583920288500593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV_Small_01
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 457
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.9375, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38878a0ead6bf4300800000000000000
+      internalID: 238610356462188675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV_Small_02
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 469
+        width: 32
+        height: 52
+      alignment: 9
+      pivot: {x: 0.9375, y: 0.13461539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fef791a1783eb20800000000000000
+      internalID: 3162519909510934334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV_Big_01
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 329
+        width: 32
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae607db4132a80aa0800000000000000
+      internalID: -6194522954838636822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV_Big_02
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 341
+        width: 32
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7b46d6b878cd190800000000000000
+      internalID: -7936319410428135443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV_Big_03
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 353
+        width: 32
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80740b1623638f50800000000000000
+      internalID: 6882453670865432714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carpet_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 16}
+        - {x: 0, y: 32}
+        - {x: 32, y: 16}
+        - {x: 0, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80be4fd75cd638bd0800000000000000
+      internalID: -2629137062465049848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carpet_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 393
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 16}
+        - {x: 0, y: 32}
+        - {x: 32, y: 16}
+        - {x: 0, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3448c0938906a6a0800000000000000
+      internalID: -6438448156605135811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carpet_03
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 393
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 16}
+        - {x: 0, y: 32}
+        - {x: 32, y: 16}
+        - {x: 0, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b53aaa12efe09b0800000000000000
+      internalID: -5111869106468725905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV_Big_04
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 373
+        width: 32
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef93df8defb7c8920800000000000000
+      internalID: 2993904186786920958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shelf_wall
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 310
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 1.2222222, y: -0.7894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6024afe060a284180800000000000000
+      internalID: -9131002038984228346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carpet_04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 16}
+        - {x: 0, y: 32}
+        - {x: 32, y: 16}
+        - {x: 0, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38c0679c464c7480800000000000000
+      internalID: -8900161468819781571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carpet_05
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 329
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 16}
+        - {x: 0, y: 32}
+        - {x: 32, y: 16}
+        - {x: 0, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91321566464204bb0800000000000000
+      internalID: -4953919576475622631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carpet_06
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 329
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 16}
+        - {x: 0, y: 32}
+        - {x: 32, y: 16}
+        - {x: 0, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6144543ebf7e14950800000000000000
+      internalID: 6431676811897553942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carpet_07
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 16}
+        - {x: 0, y: 32}
+        - {x: 32, y: 16}
+        - {x: 0, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f66b54dc697d8770800000000000000
+      internalID: 8614675170555815673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carpet_08
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 265
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 16}
+        - {x: 0, y: 32}
+        - {x: 32, y: 16}
+        - {x: 0, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee77882b4c815ca30800000000000000
+      internalID: 4234818257699764206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carpet_09
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 265
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 16}
+        - {x: 0, y: 32}
+        - {x: 32, y: 16}
+        - {x: 0, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5212a6b45619c7c30800000000000000
+      internalID: 4358518403630768421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 265
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -16}
+        - {x: 0, y: 0}
+        - {x: 32, y: -16}
+        - {x: 0, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e89bd92ffa2c810800000000000000
+      internalID: 1784181858955267672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slope_NW
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -16}
+        - {x: 0, y: 0}
+        - {x: 32, y: -16}
+        - {x: 0, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751972b1de60ec980800000000000000
+      internalID: -8516862229878435497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slope_NE
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 201
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -16}
+        - {x: 0, y: 0}
+        - {x: 32, y: -16}
+        - {x: 0, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ed2a20b594f4290800000000000000
+      internalID: -7904018165776851336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slope_SE
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 201
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -16}
+        - {x: 0, y: 0}
+        - {x: 32, y: -16}
+        - {x: 0, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e564d26b16a2700800000000000000
+      internalID: 516332542358871630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slope_SW
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 201
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -16}
+        - {x: 0, y: 0}
+        - {x: 32, y: -16}
+        - {x: 0, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b9c1711483abd10800000000000000
+      internalID: 2142086424979872658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stairs_NW
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -16}
+        - {x: 0, y: 0}
+        - {x: 32, y: -16}
+        - {x: 0, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314f5c19d6480f6f0800000000000000
+      internalID: -652876339836750829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stairs_NE
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 137
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -16}
+        - {x: 0, y: 0}
+        - {x: 32, y: -16}
+        - {x: 0, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6800576e5e0af60800000000000000
+      internalID: 8043681712451913410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Corner_Thick
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 137
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -24}
+        - {x: -32, y: -16}
+        - {x: 0, y: 0}
+        - {x: 32, y: -16}
+        - {x: 16, y: -24}
+        - {x: 0, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c0b007162284b80800000000000000
+      internalID: -8410434502227456957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Corner_Thin
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 137
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -23.84555, y: -20.077225}
+        - {x: -32, y: -16}
+        - {x: 0, y: 0}
+        - {x: 32, y: -16}
+        - {x: 23.845566, y: -20.07721}
+        - {x: 0, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6ea83a5f1656430800000000000000
+      internalID: 3775531570258699949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Thick_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -16}
+        - {x: 0, y: 0}
+        - {x: 16, y: -8}
+        - {x: -16, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f13bcdd8d36a460800000000000000
+      internalID: 7252551929429172111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Thick_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 73
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -8}
+        - {x: 0, y: 0}
+        - {x: 32, y: -16}
+        - {x: 16, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9f3ec738b440e70800000000000000
+      internalID: 9080465776793876975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Thin_01
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 73
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -16}
+        - {x: 0, y: 0}
+        - {x: 8, y: -4}
+        - {x: -24, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88c3999678bd39d0800000000000000
+      internalID: -2792873374377588598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Thin_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 73
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -4}
+        - {x: 0, y: 0}
+        - {x: 32, y: -16}
+        - {x: 24, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7c42a0cef2948f0800000000000000
+      internalID: -555860388174575710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Thick_03
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: -16}
+        - {x: 16, y: -8}
+        - {x: -16, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097bedf0747ca4e20800000000000000
+      internalID: 3335697582044133264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Thick_04
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 9
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -8}
+        - {x: -32, y: -16}
+        - {x: 0, y: -32}
+        - {x: 16, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89060123a7f6ba40800000000000000
+      internalID: 5383762684573780362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Thin_03
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 9
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -28}
+        - {x: 24, y: -12}
+        - {x: 32, y: -16}
+        - {x: 0, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e210d41a3be3ae0800000000000000
+      internalID: -1567618114915324328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Thin_04
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 9
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -16}
+        - {x: -24, y: -12}
+        - {x: 8, y: -28}
+        - {x: 0, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782f48d8de9a69b50800000000000000
+      internalID: 6599649141704684167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blinds_01
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 248
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15217392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057a7c5a829669b90800000000000000
+      internalID: -7235480128023189680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painting
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 215
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 1, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db3443fdd625e330800000000000000
+      internalID: 3739437800312028118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AC
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 175
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.9117647, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6361ba6e0f7f0cfc0800000000000000
+      internalID: -3476506298295839178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coat_Hanger
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 248
+        width: 18
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -27}
+        - {x: -9, y: -18}
+        - {x: -5, y: -16}
+        - {x: 0, y: -15}
+        - {x: 5, y: -16}
+        - {x: 9, y: -18}
+        - {x: 9, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd45771545145a30800000000000000
+      internalID: 4203007738734005681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair_01
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 347
+        width: 28
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: -9}
+        - {x: 1, y: -2}
+        - {x: 14, y: -9}
+        - {x: 1, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941f35f18b9061fd0800000000000000
+      internalID: -2371697467359760055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair_02
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 302
+        width: 34
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5588235, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -21.5}
+        - {x: -17, y: -11.5}
+        - {x: -5, y: -8.5}
+        - {x: 2, y: -6.5}
+        - {x: 8, y: -8.5}
+        - {x: 12, y: -11.5}
+        - {x: 12, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c6fdbaf10edcce0800000000000000
+      internalID: -1383203083900719978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_01
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 121
+        width: 20
+        height: 54
+      alignment: 9
+      pivot: {x: 0.9911438, y: 0.22255555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10, y: -27}
+        - {x: -9, y: -19}
+        - {x: 10, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a916ae0aeb380b60800000000000000
+      internalID: 7712480238326127008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_02
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 103
+        width: 64
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -18}
+        - {x: -32, y: 0}
+        - {x: -28, y: 2}
+        - {x: 31, y: -24}
+        - {x: 8, y: -36}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0060c4464c589d560800000000000000
+      internalID: 7339044146319721984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shelf
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 310
+        width: 60
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4166667, y: 0.19402985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -30, y: -13.5}
+        - {x: -10, y: -4.5}
+        - {x: 30, y: -23.5}
+        - {x: 10, y: -33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c106ca63cfa4320800000000000000
+      internalID: 2543122251354479643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cupboard_Wooden_01
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 377
+        width: 64
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.104166664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -57}
+        - {x: 32, y: -25}
+        - {x: 32, y: -55}
+        - {x: -2, y: -72}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b14afeda05c2630800000000000000
+      internalID: 3903583685003451220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cupboard_Wooden_02
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 394
+        width: 30
+        height: 127
+      alignment: 9
+      pivot: {x: -0, y: 0.11023622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -63.5}
+        - {x: -15, y: -33.5}
+        - {x: 15, y: -48.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3883bfb8a2068fc10800000000000000
+      internalID: 2087524163139614851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cupboard_Messy_01
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 377
+        width: 64
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.104166664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -57}
+        - {x: 32, y: -25}
+        - {x: 32, y: -61}
+        - {x: -2, y: -72}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4516bc2fdb9b43cd0800000000000000
+      internalID: -2579232461103079084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cupboard_Messy_02
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 386
+        width: 30
+        height: 135
+      alignment: 9
+      pivot: {x: 0, y: 0.16296296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -49.5}
+        - {x: 10, y: -49.5}
+        - {x: 13, y: -52.5}
+        - {x: 13, y: -60.5}
+        - {x: 12, y: -65.5}
+        - {x: 8, y: -67.5}
+        - {x: -5, y: -67.5}
+        - {x: -7, y: -64.5}
+        - {x: -11, y: -64.5}
+        - {x: -15, y: -65.5}
+        - {x: -15, y: -29.5}
+        - {x: 15, y: -44.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7858b9b9c957000800000000000000
+      internalID: 33104764418230261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cupboard_BnW_01
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 377
+        width: 64
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.104166664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -57}
+        - {x: 32, y: -25}
+        - {x: 32, y: -55}
+        - {x: -2, y: -72}
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb84a3e34d4ac7f0800000000000000
+      internalID: -591575447068439571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cupboard_BnW_02
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 394
+        width: 30
+        height: 127
+      alignment: 9
+      pivot: {x: 0, y: 0.11023622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -63.5}
+        - {x: -15, y: -33.5}
+        - {x: 15, y: -48.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29771190f3c49840800000000000000
+      internalID: 5230020505277790508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blinds_02
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 262
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85952af3fc79164a0800000000000000
+      internalID: -6601828662366807720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
