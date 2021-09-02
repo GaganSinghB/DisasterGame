@@ -25,6 +25,15 @@ public class PlayerMovementWASD01 : MonoBehaviour
             Vector2 movement = inputVector * playerSpeed;
             Vector2 newPos = currentPos + movement * Time.fixedDeltaTime;
             rigidBody.MovePosition(newPos);
+
+            myAnim.SetFloat("MoveX", Input.GetAxisRaw("Horizontal"));
+            myAnim.SetFloat("MoveY", Input.GetAxisRaw("Vertical"));
+
+            if (Input.GetAxisRaw("Horizontal") == 1 || Input.GetAxisRaw("Horizontal") == -1 || Input.GetAxisRaw("Vertical") == 1 || Input.GetAxisRaw("Vertical") == -1)
+            {
+                myAnim.SetFloat("LastMoveX", Input.GetAxisRaw("Horizontal"));
+                myAnim.SetFloat("LastMoveY", Input.GetAxisRaw("Vertical"));
+            }
         }
         else
         {
