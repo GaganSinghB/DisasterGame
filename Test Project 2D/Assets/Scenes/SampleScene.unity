@@ -1151,7 +1151,7 @@ Tilemap:
   - first: {x: -2, y: -2, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 7
+      m_TileIndex: 10
       m_TileSpriteIndex: 7
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
@@ -1264,14 +1264,14 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 02e5daf8936337f438e5fb4cda3fec5d, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: ae8d7a6fa2e44a2489c5237d11306cd5, type: 2}
-  - m_RefCount: 1
-    m_Data: {fileID: 11400000, guid: 52265859844678840b9c463566ae0d01, type: 2}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 89e06b99e5a4224488fcf31623c8d19b, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 996809b81cf176644b3fedc938af5c91, type: 2}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: 52265859844678840b9c463566ae0d01, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: cbaf9e259a5c61a4197d9c3b11997944, type: 2}
   - m_RefCount: 1
@@ -1458,7 +1458,7 @@ Tilemap:
   m_GameObject: {fileID: 1333480027}
   m_Enabled: 1
   m_Tiles:
-  - first: {x: 2, y: 0, z: 0}
+  - first: {x: 2, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -1500,8 +1500,8 @@ Tilemap:
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Origin: {x: 0, y: 0, z: 0}
-  m_Size: {x: 3, y: 1, z: 1}
+  m_Origin: {x: 0, y: -1, z: 0}
+  m_Size: {x: 3, y: 2, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
   m_TileOrientation: 0
   m_TileOrientationMatrix:
@@ -2681,11 +2681,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 527271428440900513, guid: 10e45155a8a85774ea402eb7c50ddeaf, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1
+      value: 0.21
       objectReference: {fileID: 0}
     - target: {fileID: 527271428440900513, guid: 10e45155a8a85774ea402eb7c50ddeaf, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.262
       objectReference: {fileID: 0}
     - target: {fileID: 527271428440900513, guid: 10e45155a8a85774ea402eb7c50ddeaf, type: 3}
       propertyPath: m_LocalPosition.z
